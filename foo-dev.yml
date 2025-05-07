@@ -1,10 +1,2 @@
 server:
-  port: 6789
-spring:
-  application:
-    name: eureka-movie
-  servlet:
-    multipart:
-      enabled: true #默认true,允许上传文件
-      max-file-size: 50MB  #每一个文件的大小
-      max-request-size: 1024MB #总大小
+  port: 8001
